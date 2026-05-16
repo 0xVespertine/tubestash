@@ -33,7 +33,7 @@ built-in history and a self-updating engine so it doesn't rot.
 ## Install
 
 ```powershell
-git clone https://github.com/<your-user>/tubestash.git
+git clone https://github.com/0xVespertine/tubestash.git
 cd tubestash
 powershell -ExecutionPolicy Bypass -File setup.ps1
 ```
