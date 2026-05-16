@@ -1,0 +1,31 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.mypy_cache/
+.ruff_cache/
+
+# User-specific runtime state (machine paths + personal history)
+settings.json
+history.json
+
+# Downloaded media (never commit videos)
+*.mp4
+*.mkv
+*.webm
+*.m4a
+*.mp3
+*.part
+*.ytdl
+
+# Local tooling / editor config
+.claude/
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
